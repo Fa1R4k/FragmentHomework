@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">FragmentHomework</string>
+    <string name="add_name">добавить</string>
+
+    <string-array name="colors">
+        <item>Черный</item>
+        <item>Белый</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Фиолетовый</item>
+        <item>Желтый</item>
+    </string-array>
 </resources>
